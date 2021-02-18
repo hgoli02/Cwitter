@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/USER/Desktop/client -ANSII COLOR/cJSON.h
+stddef.h
+-
+
+C:/Users/USER/Desktop/client -ANSII COLOR/main.c
+winsock2.h
+-
+stdio.h
+-
+slre.h
+C:/Users/USER/Desktop/client -ANSII COLOR/slre.h
+cJSON.h
+C:/Users/USER/Desktop/client -ANSII COLOR/cJSON.h
+string.h
+-
+windows.h
+-
+
+C:/Users/USER/Desktop/client -ANSII COLOR/slre.h
+

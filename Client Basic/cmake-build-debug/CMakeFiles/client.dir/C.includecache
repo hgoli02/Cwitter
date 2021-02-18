@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hogo/Desktop/Clienty/Client Basic/cJSON.h
+stddef.h
+-
+
+C:/Users/hogo/Desktop/Clienty/Client Basic/main.c
+winsock2.h
+-
+stdio.h
+-
+slre.h
+C:/Users/hogo/Desktop/Clienty/Client Basic/slre.h
+cJSON.h
+C:/Users/hogo/Desktop/Clienty/Client Basic/cJSON.h
+string.h
+-
+
+C:/Users/hogo/Desktop/Clienty/Client Basic/slre.h
+

@@ -1,0 +1,3 @@
+C:/Users/hogo/Desktop/Clienty/Client Basic/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/hogo/Desktop/Clienty/Client Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hogo/Desktop/Clienty/Client Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
